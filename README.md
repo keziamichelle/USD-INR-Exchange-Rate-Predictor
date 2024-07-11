@@ -10,7 +10,7 @@ The USD-INR Exchange Rate Predictor is an advanced financial forecasting tool th
 
 -Interactive web interface for ease of use.
 
-*Technologies Used*
+*Technologies/Tools/Libraries Used*
 
 -Streamlit for creating an interactive and user-friendly web application.
 
@@ -18,6 +18,4 @@ The USD-INR Exchange Rate Predictor is an advanced financial forecasting tool th
 
 -yfinance for fetching historical exchange rate data.
 
--Joblib for model serialization.
 
--dotenv for environment variable management.
